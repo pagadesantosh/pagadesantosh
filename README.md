@@ -5,7 +5,7 @@
 📍 Pune, India
 ✉️ [pagade.santosh@gmail.com](mailto:pagade.santosh@gmail.com)
 📱 [+91‑8793296627](tel:+918793296627)
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+🔗 [LinkedIn](https://www.linkedin.com/in/santosh-pagade)
 
 ---
 
