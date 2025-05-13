@@ -16,11 +16,6 @@
 * **Cloud & DevOps:** AWS (S3, EC2, Elastic Beanstalk), Heroku, GitHub Actions, CircleCI
 * **Tools:** Jira, GitHub, VS Code, Visual Studio
 
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**
-University of Pune, 2011–2013
----
 
 ## 📜 Certifications
 
