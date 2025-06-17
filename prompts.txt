@@ -1,0 +1,5 @@
+Act like a senior Node.js developer with 5 YOE. You’re hiring a 2 YOE backend dev.
+ Here's the JD: [paste job details].
+ Skills: Node.js, JavaScript, MongoDB, SQL, etc.
+ Company: [Add name + what it does].
+ Give a 1-hour sequence of 30–40 technical questions, with answers and follow-ups.
